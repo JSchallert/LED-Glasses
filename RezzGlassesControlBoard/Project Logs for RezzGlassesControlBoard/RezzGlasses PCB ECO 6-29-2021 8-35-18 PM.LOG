@@ -1,0 +1,11 @@
+Added Component: Designator=P1(PIN3)
+Added Component: Designator=P2(PIN3)
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=LED1 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=VBAT Pin=P2-1
+Added Pin To Net: NetName=DOUT Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Member To Class: ClassName=Controller Member=Component J2 DF59-2S-2V(51)
+Added Member To Class: ClassName=LEDChain2 Member=Component P1 HEADER_1x3
+Added Member To Class: ClassName=LEDChain2 Member=Component P2 HEADER_1x3

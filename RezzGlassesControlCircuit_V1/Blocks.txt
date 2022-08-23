@@ -1,0 +1,8 @@
+ x MCU
+ _ Mic
+ x Batt connector
+ x Programmer, TINY breakable pins
+ _ Switch x1, POWER
+ _ Switch x2 (OR SPI/I2C), BRIGHTNESS 
+ _ Switch x3 (OR SPI/I2C), SPEED
+ x DONT FORGET SERIES RESISTOR

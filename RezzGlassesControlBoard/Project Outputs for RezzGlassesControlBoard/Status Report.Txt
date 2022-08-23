@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RezzGlassesControlBoard.PrjPcb]
+   Generated File[RezzGlasses.TXT]
+   Generated File[RezzGlasses.LDP]
+   Generated File[RezzGlasses.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:13:55 AM On 7/1/2021

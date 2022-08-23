@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetC12_1 Pin=RN4-1
+Removed Pin From Net: NetName=NetC14_1 Pin=RN4-2
+Removed Pin From Net: NetName=NetC15_1 Pin=RN4-3
+Removed Pin From Net: NetName=NetC16_1 Pin=RN4-4
+Removed Pin From Net: NetName=NetC17_1 Pin=RN4-5
+Removed Pin From Net: NetName=NetC18_1 Pin=RN4-6
+Removed Pin From Net: NetName=NetC19_1 Pin=RN4-7
+Removed Pin From Net: NetName=NetC20_1 Pin=RN4-8
+Added Pin To Net: NetName=NetC20_1 Pin=RN4-9
+Added Pin To Net: NetName=NetC19_1 Pin=RN4-10
+Added Pin To Net: NetName=NetC18_1 Pin=RN4-11
+Added Pin To Net: NetName=NetC17_1 Pin=RN4-12
+Added Pin To Net: NetName=NetC16_1 Pin=RN4-13
+Added Pin To Net: NetName=NetC15_1 Pin=RN4-14
+Added Pin To Net: NetName=NetC14_1 Pin=RN4-15
+Added Pin To Net: NetName=NetC12_1 Pin=RN4-16
+Added Pin To Net: NetName=NetRN4_1 Pin=RN4-1
+Added Pin To Net: NetName=NetRN4_1 Pin=U4-19
+Added Net: Name=NetRN4_1
+Added Pin To Net: NetName=NetRN4_2 Pin=RN4-2
+Added Pin To Net: NetName=NetRN4_2 Pin=U4-20
+Added Net: Name=NetRN4_2
+Added Pin To Net: NetName=NetRN4_3 Pin=RN4-3
+Added Pin To Net: NetName=NetRN4_3 Pin=U4-2
+Added Net: Name=NetRN4_3
+Added Pin To Net: NetName=NetRN4_4 Pin=RN4-4
+Added Pin To Net: NetName=NetRN4_4 Pin=U4-3
+Added Net: Name=NetRN4_4
+Added Pin To Net: NetName=NetRN4_5 Pin=RN4-5
+Added Pin To Net: NetName=NetRN4_5 Pin=U4-4
+Added Net: Name=NetRN4_5
+Added Pin To Net: NetName=NetRN4_6 Pin=RN4-6
+Added Pin To Net: NetName=NetRN4_6 Pin=U4-5
+Added Net: Name=NetRN4_6
+Added Pin To Net: NetName=NetRN4_7 Pin=RN4-7
+Added Pin To Net: NetName=NetRN4_7 Pin=U4-6
+Added Net: Name=NetRN4_7
+Added Pin To Net: NetName=NetRN4_8 Pin=RN4-8
+Added Pin To Net: NetName=NetRN4_8 Pin=U4-7
+Added Net: Name=NetRN4_8

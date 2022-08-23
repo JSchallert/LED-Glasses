@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=P1(PIN3)
+Added Component: Designator=P2(PIN3)
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=LED1 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=VBAT Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU1_3
+Added Pin To Net: NetName=DOUT Pin=D60-1
+Added Pin To Net: NetName=DOUT Pin=P2-2
+Added Net: Name=DOUT
+Added Member To Class: ClassName=Controller Member=Component J1 DF59-2S-2V(51)
+Added Member To Class: ClassName=Controller Member=Component J3 6 Pin ISP Header
+Added Member To Class: ClassName=LEDChain2 Member=Component P1 HEADER_1x3
+Added Member To Class: ClassName=LEDChain2 Member=Component P2 HEADER_1x3
+Added Room: Name=LEDChain1
+Added Room: Name=LEDChain2

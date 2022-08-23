@@ -1,0 +1,10 @@
+Added Component: Designator=U8(HSNT-4-B)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1662-S-1318D33-A4T2U4CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U2-17
+Added Pin To Net: NetName=VCC Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=VLIPO Pin=U8-3
+Added Pin To Net: NetName=VLIPO Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-5
+Added Member To Class: ClassName=Controller Member=Component U8 S-1318D33-A4T2U4

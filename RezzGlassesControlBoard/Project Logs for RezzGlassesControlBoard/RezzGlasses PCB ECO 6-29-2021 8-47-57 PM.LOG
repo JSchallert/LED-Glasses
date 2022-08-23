@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=PIN3 New Footprint=PIN3 - TIGHT
+Change Component Footprint: Designator=P2 Old Footprint=PIN3 New Footprint=PIN3 - TIGHT
+Change Component Comment : Designator=P1 Old Comment=HEADER_1x3 New Comment=HEADER_1x3_TIGHT
+Change Component Comment : Designator=P2 Old Comment=HEADER_1x3 New Comment=HEADER_1x3_TIGHT
